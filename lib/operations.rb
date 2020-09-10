@@ -1,7 +1,7 @@
 def unsafe?(speed)
 	if speed == speed
 	    return ""
-	elsif speed > 
+	elsif speed >
 	    return ""
 	elsif speed < speed
 	  return ""
