@@ -1,10 +1,10 @@
 def unsafe?(speed)
 	if speed != speed
-	    return "HUH?! SPEAK UP, SONNY!"
-	elsif speed == "I LOVE YOU GRANDMA!"
-	    return "I LOVE YOU TOO PUMPKIN!"
+	    return ""
+	elsif speed == ""
+	    return ""
 	elsif speed == speed
-	  return "NO, NOT SINCE 1938!"
+	  return ""
 	    end
 	end
 
