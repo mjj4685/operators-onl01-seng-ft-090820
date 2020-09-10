@@ -1,9 +1,9 @@
 def unsafe?(speed)
-	if speed != speed
+	if speed == speed
 	    return ""
-	elsif speed == ""
+	elsif speed > 
 	    return ""
-	elsif speed == speed
+	elsif speed < speed
 	  return ""
 	    end
 	end
